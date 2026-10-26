@@ -1,0 +1,5 @@
+priority_id,priority_name,sla_response_hours,sla_resolution_hours,color
+1,Critical,1,4,#DC2626
+2,High,4,24,#F97316
+3,Medium,8,72,#EAB308
+4,Low,24,168,#22C55E

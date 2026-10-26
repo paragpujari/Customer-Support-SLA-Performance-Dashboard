@@ -1,0 +1,9 @@
+category_id,category_name,parent_category
+1,Login / Access Issues,Account
+2,Billing & Payments,Finance
+3,Product Feature Request,Product
+4,Bug / Technical Error,Technical
+5,Performance / Latency,Technical
+6,Integration / API,Technical
+7,Account Upgrade / Downgrade,Account
+8,General Inquiry,Support

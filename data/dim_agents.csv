@@ -1,0 +1,9 @@
+agent_id,agent_name,team,hire_date,shift
+1,Priya Sharma,Tier 1,2023-01-15,Morning
+2,Rahul Verma,Tier 1,2022-06-20,Morning
+3,Ananya Patel,Tier 1,2023-03-10,Evening
+4,Vikram Singh,Tier 2,2021-11-05,Morning
+5,Sneha Reddy,Tier 2,2022-09-12,Evening
+6,Arjun Mehta,Tier 2,2020-04-18,Night
+7,Kavita Nair,Tier 3,2019-08-22,Morning
+8,Rohan Das,Tier 3,2021-02-14,Evening
